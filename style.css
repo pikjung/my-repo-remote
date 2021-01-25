@@ -20,9 +20,15 @@ body {
     text-align: center;
 }
 
+<<<<<<< HEAD
 #footer{
     width: 100%;
     height:50px;
+=======
+#header {
+    width: 100%;
+    height: 50px;
+>>>>>>> development-1.0
     line-height: 50px;
     background-color:burlywood;
     text-align: center;
